@@ -1,0 +1,56 @@
+Testing started at 9:28 PM ...
+C:\Ruby25-x64\bin\ruby.exe -EUTF-8 C:\Ruby25-x64\bin\cucumber C:/Users/Sharon/eclipse-workspace/exercise/test/features/features/value_verification.feature --format Teamcity::Cucumber::Formatter --expand --color -r features
+C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/eventmachine-1.2.7/lib/em/pure_ruby.rb:467: warning: already initialized constant EventMachine::TimerFired
+C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/eventmachine-1.2.7/lib/em/pure_ruby.rb:469: warning: already initialized constant EventMachine::ConnectionData
+C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/eventmachine-1.2.7/lib/em/pure_ruby.rb:471: warning: already initialized constant EventMachine::ConnectionUnbound
+C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/eventmachine-1.2.7/lib/em/pure_ruby.rb:473: warning: already initialized constant EventMachine::ConnectionAccepted
+C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/eventmachine-1.2.7/lib/em/pure_ruby.rb:475: warning: already initialized constant EventMachine::ConnectionCompleted
+C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/eventmachine-1.2.7/lib/em/pure_ruby.rb:477: warning: already initialized constant EventMachine::LoopbreakSignalled
+C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/eventmachine-1.2.7/lib/em/pure_ruby.rb:479: warning: already initialized constant EventMachine::ConnectionNotifyReadable
+C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/eventmachine-1.2.7/lib/em/pure_ruby.rb:481: warning: already initialized constant EventMachine::ConnectionNotifyWritable
+C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/eventmachine-1.2.7/lib/em/pure_ruby.rb:483: warning: already initialized constant EventMachine::SslHandshakeCompleted
+C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/eventmachine-1.2.7/lib/em/pure_ruby.rb:485: warning: already initialized constant EventMachine::SslVerify
+C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/eventmachine-1.2.7/lib/em/pure_ruby.rb:487: warning: already initialized constant EventMachine::EM_PROTO_SSLv2
+C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/eventmachine-1.2.7/lib/em/pure_ruby.rb:489: warning: already initialized constant EventMachine::EM_PROTO_SSLv3
+C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/eventmachine-1.2.7/lib/em/pure_ruby.rb:491: warning: already initialized constant EventMachine::EM_PROTO_TLSv1
+C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/eventmachine-1.2.7/lib/em/pure_ruby.rb:493: warning: already initialized constant EventMachine::EM_PROTO_TLSv1_1
+C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/eventmachine-1.2.7/lib/em/pure_ruby.rb:495: warning: already initialized constant EventMachine::EM_PROTO_TLSv1_2
+WARNING: The formatter Teamcity::Cucumber::Formatter is using the deprecated formatter API which will be removed in v4.0 of Cucumber.
+
+
+DevTools listening on ws://127.0.0.1:12792/devtools/browser/b0dfaf1b-728c-4a15-a40b-2054cd8ddbf1
+
+DevTools listening on ws://127.0.0.1:12281/devtools/browser/6665f79e-0643-4380-befd-4cc8d369197a
+
+DevTools listening on ws://127.0.0.1:12190/devtools/browser/873137c8-a990-417d-a8f0-0cef85e6229c
+
+DevTools listening on ws://127.0.0.1:12559/devtools/browser/c46a17b9-df60-4b41-b01d-495fba9d1d4a
+
+DevTools listening on ws://127.0.0.1:12220/devtools/browser/efa34f18-8c8c-4ee8-8466-ad614aa4c84f
+
+DevTools listening on ws://127.0.0.1:12950/devtools/browser/e1193070-60cb-4d5b-8a8a-564396457769
+
+DevTools listening on ws://127.0.0.1:12895/devtools/browser/b8e118e6-07b3-4771-8b1e-a8f7ce459957
+
+DevTools listening on ws://127.0.0.1:12499/devtools/browser/8fbfa039-33a2-44a8-a690-486cc11f1919
+
+DevTools listening on ws://127.0.0.1:12872/devtools/browser/cca293fe-8ca4-40eb-afd2-258190ce95a9
+
+DevTools listening on ws://127.0.0.1:12930/devtools/browser/0784c768-bc2d-4f79-b9e3-1de55aaef2d6
+
+DevTools listening on ws://127.0.0.1:12161/devtools/browser/0f64164c-a456-4235-b4a1-d025eb172740
+
+DevTools listening on ws://127.0.0.1:12840/devtools/browser/de1c156e-0d26-425d-8e89-64250b551bf4
+
+DevTools listening on ws://127.0.0.1:12651/devtools/browser/639cf5ba-9fb3-4c43-9f80-e71d857cedac
+
+DevTools listening on ws://127.0.0.1:12896/devtools/browser/1f175be4-a96a-4b44-bc62-19da25898ee9
+
+DevTools listening on ws://127.0.0.1:12139/devtools/browser/34df4fd7-8dfe-4d76-aaf1-2cc5cf6a58bd
+
+DevTools listening on ws://127.0.0.1:12545/devtools/browser/fad29377-6d27-4483-bcbe-eea05aed66aa
+16 scenarios (16 passed)
+48 steps (48 passed)
+1m21.885s
+
+Process finished with exit code 0

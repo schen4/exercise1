@@ -1,0 +1,9 @@
+source "https://rubygems.org"
+
+group :test do
+  gem 'cucumber'
+  gem 'rspec'
+  gem 'selenium-webdriver'
+  gem 'selenium-client'
+  gem 'selenium-cucumber'
+end
